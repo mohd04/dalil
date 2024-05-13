@@ -1,0 +1,3 @@
+[submodule "private-gp"]
+	path = private-gp
+	url = https://github.com/zylon-ai/private-gpt.git
